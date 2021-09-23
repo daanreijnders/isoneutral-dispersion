@@ -1,0 +1,18 @@
+Computing diffusivity after 180 days of advection
+fine_advection: 1.9865464485397776e-05 
+coarsened_advection: 0.0002734019993789189 
+coarsened_EM_Le_Sommer_C0.3: 0.0008417189140826984 
+coarsened_EM_Le_Sommer_C1: 0.0033010735203109266 
+coarsened_EM_Redi_smallslope_K1500: 0.0008786476983346162 
+coarsened_EM_Redi_smallslope_K5000: 0.004311468645673781 
+coarsened_EM_Redi_smallslope_K15000: 0.03886398272297264 
+coarse_advection: 1.448151104579755e-05 
+coarse_EM_Le_Sommer_C0.3: 0.0002707737160226283 
+coarse_EM_Le_Sommer_C1: 0.0005622267658121553 
+coarse_EM_Le_Sommer_C3: 0.0014125207823162164 
+coarse_EM_Redi_smallslope_K1500: 9.148539546228317e-05 
+coarse_EM_Redi_smallslope_K5000: 0.00023977510524837657 
+coarse_EM_Redi_smallslope_K15000: 0.0013948966770662907 
+coarse_M1_Redi_smallslope_K1500: 8.945877656885285e-05 
+coarse_M1_Redi_smallslope_K5000: 0.00021286272298829894 
+coarse_M1_Redi_smallslope_K15000: 0.0011223939759697338 
