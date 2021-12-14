@@ -34,7 +34,7 @@ def K_Redi_smallslope(particle, fieldset, time):
         taper2 = 1.
     
     k11 = taper1 * taper2 * kappa
-    k21 = taper1 * taper2 * kappa * - Sx * Sy
+    k21 = 0
     k22 = taper1 * taper2 * kappa
     k31 = taper1 * taper2 * kappa * Sx
     k32 = taper1 * taper2 * kappa * Sy
@@ -44,9 +44,9 @@ def K_Redi_smallslope(particle, fieldset, time):
     dk11dy = 0
     dk11dz = 0
     
-    dk21dx = taper1 * taper2 * kappa * - (Sx * dSydx + dSxdx * Sy)
-    dk21dy = taper1 * taper2 * kappa * - (Sx * dSydy + dSxdy * Sy)
-    dk21dz = taper1 * taper2 * kappa * - (Sx * dSydz + dSxdz * Sy)
+    dk21dx = 0
+    dk21dy = 0
+    dk21dz = 0
     
     dk22dx = 0
     dk22dy = 0
