@@ -1,5 +1,6 @@
 # Simulating Lagrangian Subgrid-Scale Dispersion on Neutral Surfaces in the Ocean
 This repository holds the data generation and analysis scripts for the manuscript 'Simulating Lagrangian Subgrid-Scale Dispersion on Neutral Surfaces in the Ocean'. 
+https://github.com/daanreijnders/isoneutral-dispersion
 
 ## `ACC_mitgcm_config`
 Contains MITgcm configuration files for the coarse and fine model, including their spinups. This includes the compilation code and namelists.
