@@ -1,9 +1,12 @@
 # Simulating Lagrangian Subgrid-Scale Dispersion on Neutral Surfaces in the Ocean
 This repository holds the data generation and analysis scripts for the manuscript 'Simulating Lagrangian Subgrid-Scale Dispersion on Neutral Surfaces in the Ocean'. 
 https://github.com/daanreijnders/isoneutral-dispersion
+
+
 A snapshot of this repository is stored at https://doi.org/10.24416/UU01-RXA2PB
 
 The corresponding publication is available at.
+
 Reijnders, D., Deleersnijder, E., & Sebille, E. (2022). Simulating Lagrangian Subgrid‐Scale Dispersion on Neutral Surfaces in the Ocean. Journal of Advances in Modeling Earth Systems, 14(2). https://doi.org/10.1029/2021MS002850
 
 
