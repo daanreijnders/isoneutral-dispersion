@@ -1,3 +1,5 @@
+<a href=https://doi.org/10.24416/UU01-RXA2PB><img src="https://img.shields.io/badge/doi-10.24416%2FUU01--RXA2PB-blue"></a>
+
 # Simulating Lagrangian Subgrid-Scale Dispersion on Neutral Surfaces in the Ocean
 This repository holds the data generation and analysis scripts for the manuscript 'Simulating Lagrangian Subgrid-Scale Dispersion on Neutral Surfaces in the Ocean'. 
 https://github.com/daanreijnders/isoneutral-dispersion
